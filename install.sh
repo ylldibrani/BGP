@@ -18,7 +18,7 @@
 	 echo "Done."
 	 clear
 	 cd /var/www/html
-	 wget https://raw.githubusercontent.com/ylldibrani/BGP/master/bgp.zip
+	 wget https://github.com/ylldibrani/BGP/raw/master/bgp.zip
 	 unzip bgp.zip
 	 rm -rf bgp.zip
 	 echo "Done."
